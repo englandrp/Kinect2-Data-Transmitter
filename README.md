@@ -10,5 +10,8 @@ Kinect2 Data Transmitter is an update of KinectDataTransmitter, a .net4 project 
 Currently supported features:
 
 Kinect hardware setup (single device)
+
 Skeletal tracking (single user)
+
 Access to parts of the interaction library
+
