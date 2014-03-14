@@ -3,7 +3,7 @@ Kinect2-Data-Transmitter
 
 Kinect v2 data to Unity
 
-This is based on the good work for Kinect 1 by https://github.com/Phybbit at https://github.com/Phybbit/kinect-data-transmitter, which has now also been updated to work with the Kinect v2.
+This is a stop gap solution based on the good work for Kinect 1 by https://github.com/Phybbit at https://github.com/Phybbit/kinect-data-transmitter, which has now also been updated to work with the Kinect v2.
 
 **** This is based on preliminary software and/or hardware, subject to change. ****
 
